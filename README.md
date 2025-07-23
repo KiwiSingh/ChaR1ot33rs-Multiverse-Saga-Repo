@@ -9,8 +9,8 @@ This repo contains my Spotify (and in the future Apple Music) playlists covering
 2. [MCU Phase 4 Music: Just the Jams](https://open.spotify.com/playlist/4GOqgDeZqCkUXdg1W0TQel?si=a65f1ac9b6eb4e89)
 3. [MCU Phase 5 Music](https://open.spotify.com/playlist/58y628DpqVU5o6jcR8gC8O?si=4c1b86fa88d94e9e)
 4. [MCU Phase 5 Music: Just the Jams](https://open.spotify.com/playlist/58y628DpqVU5o6jcR8gC8O?si=586c8917b8cd4c3b)
-5. MCU Phase 6 Music
-6. MCU Phase 6 Music: Just the Jams
+5. [MCU Phase 6 Music](https://open.spotify.com/playlist/5KIf3a8WoyXGassEBNHVBE?si=ce911827ed454348)
+6. [MCU Phase 6 Music: Just the Jams](https://open.spotify.com/playlist/5LrPce0EQvqqKV8LVkGpMr?si=273a3503e88244d0)
 7. [The Multiverse Saga](https://open.spotify.com/playlist/0ecWBVmVy3SRkrY5MsXiCL?si=dfe2c149cbab411e)
 8. [The Multiverse Saga: Just the Jams](https://open.spotify.com/playlist/0ywOTbk0j8crK5nslmiCQq?si=a5b0a43841894d21)
 
